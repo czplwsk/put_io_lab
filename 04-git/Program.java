@@ -1,4 +1,4 @@
-public class MyClass {
+public class HerClass {
   int x = 5;
 }
 public class HisClass {
