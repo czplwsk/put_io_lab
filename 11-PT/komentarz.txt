@@ -1,0 +1,14 @@
+Zad 1.
+name		before		after
+average 	12400		1450
+throughput 	33.0/min	1.5/sec
+
+
+Wyciągnęłam z pętli for funkcję averageSpendings().
+Przechowuję ją teraz w zmiennej
+zamiast ciągłego wyliczania tej samej wartości.
+
+Zad 2.
+Przepustowość przy zadanej onfiguracji = 1.6/sec
+Myślę, że najbezpieczniej zaopatryć się w 40 drukarek.
+Przepustowość krązy wokół 6/sec, co zagwarantuje osiągnięcie zamierzonych wyników.
